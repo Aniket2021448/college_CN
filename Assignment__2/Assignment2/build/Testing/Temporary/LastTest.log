@@ -1,0 +1,93 @@
+Start testing: Oct 10 21:54 IST
+----------------------------------------------------------
+10/23 Testing: recv_connect
+10/23 Test: recv_connect
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_connect"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_connect" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"recv_connect" end time: Oct 10 21:54 IST
+"recv_connect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/23 Testing: recv_transmit
+11/23 Test: recv_transmit
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_transmit"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_transmit" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"recv_transmit" end time: Oct 10 21:54 IST
+"recv_transmit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/23 Testing: recv_window
+12/23 Test: recv_window
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_window"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_window" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"recv_window" end time: Oct 10 21:54 IST
+"recv_window" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/23 Testing: recv_reorder
+13/23 Test: recv_reorder
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_reorder"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_reorder" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"recv_reorder" end time: Oct 10 21:54 IST
+"recv_reorder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/23 Testing: recv_close
+14/23 Test: recv_close
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_close"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_close" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"recv_close" end time: Oct 10 21:54 IST
+"recv_close" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/23 Testing: recv_special
+15/23 Test: recv_special
+Command: "/home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests/recv_special"
+Directory: /home/aniket/Documents/COURSES/Computer Networks/Assignment__2/Assignment2/build/tests
+"recv_special" start time: Oct 10 21:54 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"recv_special" end time: Oct 10 21:54 IST
+"recv_special" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 10 21:54 IST
